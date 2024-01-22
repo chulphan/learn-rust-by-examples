@@ -1,6 +1,5 @@
-workspace = { members = ["primitives"] }
 [package]
-name = "learn-by-rust-examples"
+name = "primitives"
 version = "0.1.0"
 edition = "2021"
 
